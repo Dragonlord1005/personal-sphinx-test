@@ -10,6 +10,8 @@ Welcome to Tests Documentation!
    :maxdepth: 2
    
    docs/about
+   docs/progress
+   README
 
 
 
