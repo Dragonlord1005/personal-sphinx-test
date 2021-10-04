@@ -9,7 +9,7 @@ Welcome to Tests Documentation!
 .. toctree::
    :maxdepth: 2
    
-   docs/test
+   docs/about
 
 
 
