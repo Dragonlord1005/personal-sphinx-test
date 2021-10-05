@@ -8,12 +8,12 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 Sphinx = "^4.2.0"
 sphinx-autobuild = "^2021.3.14"
-sphinx-rtd-theme = "^1.0.0"
 furo = "^2021.9.22"
 sphinx-copybutton = "^0.4.0"
 sphinx-inline-tabs = "^2021.8.17-beta.10"
 sphinxext-opengraph = "^0.4.2"
 myst-parser = "^0.15.2"
+Babel = "^2.9.1"
 
 [tool.poetry.dev-dependencies]
 
