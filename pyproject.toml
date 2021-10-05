@@ -14,6 +14,7 @@ sphinx-inline-tabs = "^2021.8.17-beta.10"
 sphinxext-opengraph = "^0.4.2"
 myst-parser = "^0.15.2"
 Babel = "^2.9.1"
+docutils = "^0.17.1"
 
 [tool.poetry.dev-dependencies]
 
