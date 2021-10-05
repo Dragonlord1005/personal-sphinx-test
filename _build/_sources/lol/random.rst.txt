@@ -1,0 +1,21 @@
+random package
+==============
+
+Submodules
+----------
+
+random.random module
+--------------------
+
+.. automodule:: random.random
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: random
+   :members:
+   :undoc-members:
+   :show-inheritance:
