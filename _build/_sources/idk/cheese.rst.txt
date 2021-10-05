@@ -1,13 +1,13 @@
-random package
+cheese package
 ==============
 
 Submodules
 ----------
 
-random.random module
+cheese.cheese module
 --------------------
 
-.. automodule:: random.random
+.. automodule:: cheese.cheese
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ random.random module
 Module contents
 ---------------
 
-.. automodule:: random
+.. automodule:: cheese
    :members:
    :undoc-members:
    :show-inheritance:

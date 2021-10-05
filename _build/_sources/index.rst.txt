@@ -11,7 +11,7 @@ Welcome to Tests Documentation!
    
    docs/about
    docs/progress
-   lol/modules
+   cheesey/modules
    README
 
 

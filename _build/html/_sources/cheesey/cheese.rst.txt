@@ -1,13 +1,13 @@
-idk package
-===========
+cheese package
+==============
 
 Submodules
 ----------
 
-idk.cheese module
------------------
+cheese.cheese module
+--------------------
 
-.. automodule:: idk.cheese
+.. automodule:: cheese.cheese
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ idk.cheese module
 Module contents
 ---------------
 
-.. automodule:: idk
+.. automodule:: cheese
    :members:
    :undoc-members:
    :show-inheritance:
