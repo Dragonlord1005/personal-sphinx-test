@@ -1,4 +1,4 @@
 ===============
     About
 ===============
-This is a project that I made so I can figure out how to use sphinx
+A project that I made to learn how to use sphinx and potentially ise it
