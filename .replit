@@ -1,2 +1,2 @@
 language = "python3"
-run = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0"
+run = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0 -a"
