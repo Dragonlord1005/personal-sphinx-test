@@ -7,7 +7,7 @@ Welcome to Tests Documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    
    docs/about
    docs/progress

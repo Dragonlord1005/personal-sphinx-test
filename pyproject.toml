@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "spersonal-sphinx-test"
-version = "0.1.0"
+name = "Personal-sphinx-test"
+version = "0..1"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Dragonlord1005"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -15,8 +15,13 @@ sphinxext-opengraph = "^0.4.2"
 myst-parser = "^0.15.2"
 Babel = "^2.9.1"
 docutils = "^0.17.1"
+poethepoet = "^0.10.0"
 
 [tool.poetry.dev-dependencies]
+
+[tool.poe.tasks]
+replitrun = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0 -a"
+run = "sphinx-autobuild . _build -a"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

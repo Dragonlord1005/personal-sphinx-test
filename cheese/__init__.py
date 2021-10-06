@@ -1,5 +1,5 @@
 class hello:
-    """Repeats the word hi a lot
+    """Repeats the phrase "Hi there" the number of times specified using the amount variable
 
     Does this using loops
     
@@ -13,5 +13,7 @@ class hello:
     def __init__(self, amount):
       self.amount = amount
 
-    def hi(self):
-      print("hi")
+    def hi(self, amount):
+      x = "Hi there"
+      for x in range(amount):
+        print(X)
