@@ -21,7 +21,7 @@ copyright = '2021, Dragonlord1005'
 author = 'Dragonlord1005'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1beta'
+release = '0.0.1alpha'
 
 
 # -- General configuration ---------------------------------------------------
