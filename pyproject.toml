@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "Personal-sphinx-test"
-version = "0..1"
-description = ""
+version = "0.0.1"
+description = "Simple sphinx testing"
 authors = ["Dragonlord1005"]
 
 [tool.poetry.dependencies]
