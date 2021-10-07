@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Personal-sphinx-test"
-version = "0.0.1"
+version = "1.0.0"
 description = "Simple sphinx testing"
 authors = ["Dragonlord1005"]
 license = "MIT"
@@ -19,11 +19,13 @@ sphinx-inline-tabs = "^2021.8.17-beta.10"
 sphinxext-opengraph = "^0.4.2"
 myst-parser = "^0.15.2"
 poethepoet = "^0.10.0"
+sphinx-rtd-theme = "^1.0.0"
+releases = "^1.6.3"
 
 [tool.poetry.dev-dependencies]
 
 [tool.poe.tasks]
-replitrun = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0 -a"
+replitrun = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0"
 run = "sphinx-autobuild . _build -a"
 
 # Will need to change if sphinx removes makefile

@@ -12,8 +12,8 @@ Welcome to the Documentation!
    docs/about
    docs/progress
    docs/examples
+   changelog
    cheesey/modules
-   README
 
 
 

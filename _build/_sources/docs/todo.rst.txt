@@ -1,6 +1,0 @@
-====
-Todo
-====
-
-.. todo::
-    Done: Stuff
