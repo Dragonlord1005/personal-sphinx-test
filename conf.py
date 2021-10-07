@@ -29,7 +29,7 @@ release = '1.0.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.githubpages', 'sphinxext.opengraph', 'sphinx.ext.napoleon', 'sphinx_copybutton', 'sphinx_inline_tabs', 'sphinx.ext.duration', 'releases',
+extensions = ['sphinxext.opengraph', 'sphinx.ext.napoleon', 'sphinx_copybutton', 'sphinx_inline_tabs', 'sphinx.ext.duration', 'releases',
 ]
 # 'myst_parser',
 
