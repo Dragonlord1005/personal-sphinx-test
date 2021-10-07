@@ -3,6 +3,11 @@ name = "Personal-sphinx-test"
 version = "0.0.1"
 description = "Simple sphinx testing"
 authors = ["Dragonlord1005"]
+license = "MIT"
+documentation = "https://dragonlord1005.github.io/personal-sphinx-test"
+packages = [
+  { include = "cheese" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -13,8 +18,6 @@ sphinx-copybutton = "^0.4.0"
 sphinx-inline-tabs = "^2021.8.17-beta.10"
 sphinxext-opengraph = "^0.4.2"
 myst-parser = "^0.15.2"
-Babel = "^2.9.1"
-docutils = "^0.17.1"
 poethepoet = "^0.10.0"
 
 [tool.poetry.dev-dependencies]

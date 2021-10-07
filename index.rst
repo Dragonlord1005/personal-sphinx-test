@@ -7,10 +7,11 @@ Welcome to the Documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    
    docs/about
    docs/progress
+   docs/examples
    cheesey/modules
    README
 

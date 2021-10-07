@@ -10,6 +10,7 @@ List
 ----
 
 Done:
+^^^^^
 
 #. Documentation for classes
 #. Notes and whatnot
@@ -17,6 +18,7 @@ Done:
 #. other things
 
 Todo:
+^^^^^
 
-#. Documentation for functions
-
+#. Figure out if I should actually use it
+#. Figure out how I would properly implement it
