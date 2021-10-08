@@ -21,7 +21,7 @@ copyright = '2021, Dragonlord1005'
 author = 'Dragonlord1005'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = '1.1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -36,7 +36,7 @@ extensions = ['sphinxext.opengraph', 'sphinx.ext.napoleon', 'sphinx_copybutton',
 releases_issue_uri = "https://github.com/Dragonlord1005/personal-sphinx-test/issues/%s"
 releases_release_uri = "https://github.com/Dragonlord1005/personal-sphinx-test/releases/%s"
 # releases_release_uri = "https://github.com/Dragonlord1005/personal-sphinx-test/tree/%s"
-releases_unstable_prehistory = True
+# releases_unstable_prehistory = True
 releases_debug = True
 
 # Add any paths that contain templates here, relative to this directory.

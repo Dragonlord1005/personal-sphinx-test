@@ -24,7 +24,7 @@ releases = "^1.6.3"
 [tool.poetry.dev-dependencies]
 
 [tool.poe.tasks]
-replitrun = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0"
+replitrun = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0 -a"
 run = "sphinx-autobuild . _build -a"
 
 # Will need to change if sphinx removes makefile
