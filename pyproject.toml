@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Personal-sphinx-test"
-version = "1.0.0"
+version = "1.1.0"
 description = "Simple sphinx testing"
 authors = ["Dragonlord1005"]
 license = "MIT"
