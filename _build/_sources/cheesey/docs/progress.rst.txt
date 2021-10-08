@@ -14,7 +14,7 @@ Done:
 
 #. Documentation for classes
 #. Notes and whatnot
-#. Copybutton for code blocks
+#. copybutton
 #. other things
 
 Todo:
@@ -22,11 +22,3 @@ Todo:
 
 #. Figure out if I should actually use it
 #. Figure out how I would properly implement it
-
-
-In Progress
-^^^^^^^^^^^
-#. Switch from Github Pages to ReadTheDocs
-#. Figure out the clinks
-
-
