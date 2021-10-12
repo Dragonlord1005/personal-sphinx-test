@@ -12,7 +12,7 @@ Welcome to the Documentation!
    docs/about
    docs/progress
    docs/examples
-   changelog
+   docs/changelog
    cheesey/modules
 
 
