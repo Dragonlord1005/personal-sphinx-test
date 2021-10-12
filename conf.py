@@ -29,14 +29,11 @@ release = '1.1.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinxext.opengraph', 'sphinx.ext.napoleon', 'sphinx_copybutton', 'sphinx_inline_tabs', 'sphinx.ext.duration', 'releases',
+extensions = ['sphinxext.opengraph', 'sphinx.ext.napoleon', 'sphinx_copybutton', 'sphinx_inline_tabs', 'sphinx.ext.duration', 'releases', 'sphinx.ext.autodoc', 'sphinx_rtd_theme', 'sphinxcontrib.httpdomain',
 ]
 # 'myst_parser',
 
-releases_issue_uri = "https://github.com/Dragonlord1005/personal-sphinx-test/issues/%s"
-releases_release_uri = "https://github.com/Dragonlord1005/personal-sphinx-test/releases/%s"
-# releases_release_uri = "https://github.com/Dragonlord1005/personal-sphinx-test/tree/%s"
-# releases_unstable_prehistory = True
+releases_github_path = "Dragonlord1005/personal-sphinx-test"
 releases_debug = True
 
 # Add any paths that contain templates here, relative to this directory.
@@ -59,7 +56,5 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-opg_site_url = 'https://dragonlord1005.github.io/personal-sphinx-test'
-source_suffix = {
-    '.rst': 'restructuredtext',
-}
+# opg_site_url = 'https://dragonlord1005.github.io/personal-sphinx-test'
+source_suffix = '.rst'
