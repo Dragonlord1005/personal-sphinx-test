@@ -30,6 +30,8 @@ run = "sphinx-autobuild . _build -a"
 
 # Will need to change if sphinx removes makefile
 build = "make html"
+lbuild = { "shell" = "clear & make html" }
+
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

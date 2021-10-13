@@ -34,7 +34,6 @@ extensions = ['sphinxext.opengraph', 'sphinx.ext.napoleon', 'sphinx_copybutton',
 
 releases_github_path = "Dragonlord1005/personal-sphinx-test"
 releases_debug = True
-releases_document_name = "docs/changelog"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
