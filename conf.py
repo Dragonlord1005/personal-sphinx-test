@@ -21,7 +21,7 @@ copyright = '2021, Dragonlord1005'
 author = 'Dragonlord1005'
 
 # The full version, including alpha/beta/rc tags
-release = '1.1.0'
+release = '2.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,10 +31,10 @@ release = '1.1.0'
 # ones.
 extensions = ['sphinxext.opengraph', 'sphinx.ext.napoleon', 'sphinx_copybutton', 'sphinx_inline_tabs', 'sphinx.ext.duration', 'releases', 'sphinx.ext.autodoc', 'sphinx_rtd_theme', 'sphinxcontrib.httpdomain',
 ]
-# 'myst_parser',
 
 releases_github_path = "Dragonlord1005/personal-sphinx-test"
 releases_debug = True
+releases_document_name = "docs/changelog"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
