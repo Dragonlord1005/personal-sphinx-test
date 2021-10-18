@@ -15,6 +15,7 @@ Done:
 #. Documentation for classes
 #. Notes and whatnot
 #. Copybutton for code blocks
+#. Releases extension
 #. other things
 
 Todo:
@@ -26,7 +27,6 @@ Todo:
 
 In Progress
 ^^^^^^^^^^^
-#. Switch from Github Pages to ReadTheDocs
 #. Figure out the clinks
 
 
