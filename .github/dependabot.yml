@@ -9,8 +9,12 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "8:00"
+      timezone: "America/Denver"
       
   - package-ecosystem: "pip" # See documentation for possible values
     directory: "/docs/" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "8:00"
+      timezone: "America/Denver"
