@@ -24,6 +24,6 @@ Todo:
 
 In Progress
 ^^^^^^^^^^^
-#. Figure out the clinks
+#. Switch to python 3.9
 #. Figure out how I would properly implement it
 

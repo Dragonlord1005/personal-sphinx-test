@@ -2,6 +2,7 @@
 Changelog
 =========
 
+- :feature:`0` Switch over to python 3.9
 - :release:`2.0.1 <2021-10-18>`
 - :bug:`3` Fix Releases
 - :release:`2.0.0 <2021-10-08>`
