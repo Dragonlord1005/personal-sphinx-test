@@ -20,13 +20,10 @@ Done:
 
 Todo:
 ^^^^^
-
-#. Figure out if I should actually use it
-#. Figure out how I would properly implement it
-
+.. Note:: Currently nothing int the todo list
 
 In Progress
 ^^^^^^^^^^^
 #. Figure out the clinks
-
+#. Figure out how I would properly implement it
 
