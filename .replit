@@ -1,2 +1,2 @@
-language = "nix"
-run = "poetry run poe replitrun | lolcat"
+language = "python"
+run = "poe replitrun"
