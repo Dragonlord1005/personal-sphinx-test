@@ -10,19 +10,19 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 Sphinx = "^4.3.0"
 sphinx-autobuild = "^2021.3.14"
 sphinx-copybutton = "^0.4.0"
 sphinx-inline-tabs = "^2021.8.17-beta.10"
 sphinxext-opengraph = "^0.4.2"
-poethepoet = "^0.11.0"
 sphinx-rtd-theme = "^1.0.0"
 releases = "^1.6.3"
 six = "^1.16.0"
 sphinxcontrib-httpdomain = "^1.8.0"
 
 [tool.poetry.dev-dependencies]
+poethepoet = "^0.11.0"
 
 [tool.poe.tasks]
 replitrun = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0 -a"
