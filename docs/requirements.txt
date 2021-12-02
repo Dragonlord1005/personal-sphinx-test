@@ -1,4 +1,4 @@
-Sphinx== 4.3.0
+Sphinx== 4.3.1
 sphinx-copybutton== 0.4.0
 sphinx-inline-tabs== 2021.8.17b10
 sphinxext-opengraph== 0.5.0
