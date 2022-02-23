@@ -411,7 +411,7 @@ test = ["pytest"]
 
 [[package]]
 name = "sphinxext-opengraph"
-version = "0.6.0"
+version = "0.6.1"
 description = "Sphinx Extension to enable OGP support"
 category = "main"
 optional = false
@@ -464,7 +464,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "650affc8c0ba5f97428e87b825b30b2b5cb3dca13120fa3a5651359b5de59c88"
+content-hash = "2a4f717754c3a5df300e7d7067acd2ea89d872548c80aca5b040b7945d354819"
 
 [metadata.files]
 alabaster = [
@@ -674,8 +674,8 @@ sphinxcontrib-serializinghtml = [
     {file = "sphinxcontrib_serializinghtml-1.1.5-py2.py3-none-any.whl", hash = "sha256:352a9a00ae864471d3a7ead8d7d79f5fc0b57e8b3f95e9867eb9eb28999b92fd"},
 ]
 sphinxext-opengraph = [
-    {file = "sphinxext-opengraph-0.6.0.tar.gz", hash = "sha256:6f0528cfc3e9f28e5becd92b84a4e507bb47c7ef5d1d11e462574242a8bc395c"},
-    {file = "sphinxext_opengraph-0.6.0-py3-none-any.whl", hash = "sha256:c1e2cb99488863c00bedf168a8514101af69e030cd8291b67eddba59e2696963"},
+    {file = "sphinxext-opengraph-0.6.1.tar.gz", hash = "sha256:d4f6c5ec0d4080503f79a4a9d4dec88c789f7dc6e5688a7c3eccf3c8209f0bc4"},
+    {file = "sphinxext_opengraph-0.6.1-py3-none-any.whl", hash = "sha256:116835a5519aa26af4b45e8c17edabe671d6a8aed3c5e20efd808ec7b1ef3c49"},
 ]
 tomli = [
     {file = "tomli-1.2.2-py3-none-any.whl", hash = "sha256:f04066f68f5554911363063a30b108d2b5a5b1a010aa8b6132af78489fe3aade"},
